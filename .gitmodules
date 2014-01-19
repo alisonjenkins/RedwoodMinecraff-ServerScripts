@@ -1,0 +1,6 @@
+[submodule "Minecraft-Region-Fixer"]
+	path = Minecraft-Region-Fixer
+	url = https://github.com/Fenixin/Minecraft-Region-Fixer
+[submodule "pymclevel"]
+	path = pymclevel
+	url = https://github.com/mcedit/pymclevel
